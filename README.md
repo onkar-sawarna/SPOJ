@@ -1,3 +1,2 @@
-# Drone
-I AM ONKAR 
-I STUDY IN BIT MESRA
+# SPOJ
+   Here Are The Set Of Questions Which I have Solved On SPOJ (sphere online judge)
